@@ -4,5 +4,5 @@ mysql:
   datasource:  
     driver: com.mysql.jdbc.Driver
     username: root
-    password: 123456
+    password: 123456test
   
